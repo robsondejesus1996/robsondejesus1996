@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje trabalhando com front-end e back-end
-- 🌱 Estundando Java e Python 
+- 🌱 Estudando Java e Python 
 
 <div align="center">
   <a href="https://github.com/robsondejesus1996">
